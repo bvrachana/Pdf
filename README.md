@@ -1,5 +1,1 @@
-images
-
-![image]("C:\Users\Rachana\Downloads\game.png")
-![img](![Uploading image.png…]()
-)
+![image](https://github.com/bvrachana/Pdf/edit/master/README.md)
